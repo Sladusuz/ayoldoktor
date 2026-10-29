@@ -1,3 +1,3 @@
 # ayoldoktor
 
-Premium, responsive shifokor sayti (HTML/CSS/JS). Ochish: `index.html`.
+Dr. Oyimxon Morsadikova — shifokor sayti (HTML/CSS/JS). Ochish: `index.html`.
